@@ -57,6 +57,7 @@ Once you click on 'Terminal' a new window should open with a terminal. Type:
 
 ```bash
 pip install fastai --upgrade
+pip3 install torch==1.2 --upgrade
 ```
 then
 
